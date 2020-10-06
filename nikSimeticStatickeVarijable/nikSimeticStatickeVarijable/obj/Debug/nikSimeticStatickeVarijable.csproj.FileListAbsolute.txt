@@ -1,0 +1,6 @@
+C:\Users\4.D\source\repos\nikSimeticStatickeVarijable\nikSimeticStatickeVarijable\bin\Debug\nikSimeticStatickeVarijable.exe.config
+C:\Users\4.D\source\repos\nikSimeticStatickeVarijable\nikSimeticStatickeVarijable\bin\Debug\nikSimeticStatickeVarijable.exe
+C:\Users\4.D\source\repos\nikSimeticStatickeVarijable\nikSimeticStatickeVarijable\bin\Debug\nikSimeticStatickeVarijable.pdb
+C:\Users\4.D\source\repos\nikSimeticStatickeVarijable\nikSimeticStatickeVarijable\obj\Debug\nikSimeticStatickeVarijable.csprojAssemblyReference.cache
+C:\Users\4.D\source\repos\nikSimeticStatickeVarijable\nikSimeticStatickeVarijable\obj\Debug\nikSimeticStatickeVarijable.exe
+C:\Users\4.D\source\repos\nikSimeticStatickeVarijable\nikSimeticStatickeVarijable\obj\Debug\nikSimeticStatickeVarijable.pdb
